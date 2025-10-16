@@ -16,6 +16,10 @@ This project analyzes coffee sales data to uncover insights into sales trends, c
 * Jupyter Notebook
 * Tableau
 
+## Dashboard
+<img width="1919" height="997" alt="Screenshot 2025-10-16 185012" src="https://github.com/user-attachments/assets/2e6a56e0-516b-4f17-a160-99b4b46392e8" />
+
+
 ## Insights
 * Busiest hour is 10:00 AM
 * Top product by revenue: Latte
